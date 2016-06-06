@@ -1,0 +1,160 @@
+/*style.css*/
+#header{
+	color: black;
+	text-align: center;
+	padding: 60px;
+	font-family:verdana;
+	font-size: 60px;	
+}
+#footer{
+	padding: 20px;
+	background-color:#EDEDED;
+	color: black;
+	text-align: center;
+	font: Tahoma;
+}
+
+/*banner.css*/
+
+#banner #banner_img {
+	width: 100%;
+	height:500px;
+	border: solid 3px #333;
+}
+ 
+#banner a {
+	border: solid 1px #333;
+	background-color: #F7F7F7;
+	padding: 5px;
+	text-decoration: none;
+	color: #000;	
+}
+ 
+#banner a:hover {
+	border: solid 1px #333;
+	text-decoration: underline;
+	background-color: #333;
+	color: #FFF;
+}
+	
+#banner a.hover {
+	background-color: #333;
+	color: #FFF;
+}
+	
+#banner #botoes {
+	width: 900px;
+	text-align: center;
+	padding-top: 5px;	
+}
+img#banner{
+	width: 100%;
+	height:500px;
+	border:0;
+	alt:Banner;	
+}
+
+/*Pag. Comidas - Assunto*/
+.foto{
+	margin-left:20px;
+	margin-top:20px;
+	padding:10px;
+	float: left;
+}
+/*Pag. Sobre - Assunto*/
+#section{
+float:left;
+width: 1300px;
+height: 1300px;
+padding:10px;
+}
+/*new.css e Rodapé*/
+body {
+width:100%;
+	background-color: lightblue;
+}
+ 
+#menu ul {
+
+	width:100%;
+	padding:10px;
+	margin:0px;
+	background-color:#EDEDED;
+	list-style:none;
+	font:100% Tahoma;
+	text-align:center;
+}
+ 
+#menu ul li { display: inline; }
+ 
+#menu ul li a {
+	background-color:#EDEDED;
+	color: #333;
+	text-decoration: none;
+	border-bottom:3px solid #EDEDED;
+	padding: 2px 10px;
+	text-align:center;
+}
+ 
+#menu ul li a:hover {
+	background-color:#D6D6D6;
+	color: #6D6D6D;
+	border-bottom:3px solid #EA0000;
+}
+img#i{
+	height:200px;
+	width:250px;	
+}
+h3#i{
+	font-size:15px;
+}
+img#p{
+	height:400px;
+	width: 580px;
+	margin:20px;
+	padding:10px;
+}
+img#t{
+	height:400px;
+	width: 520px;
+	margin:20px;
+	padding:10px;
+}
+h2{
+	text-align:center;
+	
+}
+h4{
+	text-align: justify;
+	margin:20px;
+	padding:10px;
+	font-size:17px;
+}
+p{
+	text-align: justify;
+}
+/*Pag. Comidas - Assunto*/
+.foto{
+	margin-left:300px;
+	margin-right: 300px;
+	margin-top:20px;
+	padding:10px;
+	float: left;
+}
+.post_body {
+    margin: 30px 0 0;
+    font-size: 13px;
+    padding: 0 30px;
+    color: #3c3c3c;
+    line-height: 20px;
+}
+.postagem {
+	text-align: center;
+    background: #EDEDED;
+    margin-bottom: 60px;
+    position: relative;
+}
+
+
+
+
